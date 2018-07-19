@@ -5,6 +5,10 @@ git is free software distributed under the GPL
 come to see
 
 Creating a new branch is quick AND simple.
+<<<<<<<
 
 lei a 
 
+=======
+usb
+>>>>>>> master
